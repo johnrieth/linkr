@@ -1,6 +1,6 @@
-Create virtual environment
-Install Django
-Create Django project
+DONE Create virtual environment
+DONE Install Django
+DONE Create Django project
 Create app for base pages
 Create templates, views
 Create app for users
