@@ -1,0 +1,16 @@
+Create virtual environment
+Install Django
+Create Django project
+Create app for base pages
+Create templates, views
+Create app for users
+Set up authentication
+    Sign up
+    Log In
+    Log out
+Create app for links
+    Models
+    Views
+Create app for dashboard
+Implement limitations
+Deploy
